@@ -29,7 +29,7 @@ public class Kerucut implements BangunRuang{
     }
 
     @Override    
-    public void tampil() {
+    public void tampilBangunRuang() {
         System.out.printf("Hasil : V = %.0f%n", hitungVolume());
     }
 }

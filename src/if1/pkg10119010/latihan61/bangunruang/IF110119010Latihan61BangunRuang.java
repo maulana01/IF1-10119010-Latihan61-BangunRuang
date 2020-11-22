@@ -25,8 +25,8 @@ public class IF110119010Latihan61BangunRuang {
         Tabung t = new Tabung(10,21);
         Kerucut k = new Kerucut(14,9);
         
-        b.tampil();
-        t.tampil();
-        k.tampil();
+        b.tampilBangunRuang();
+        t.tampilBangunRuang();
+        k.tampilBangunRuang();
     }   
 }

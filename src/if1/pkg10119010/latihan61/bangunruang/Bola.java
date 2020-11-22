@@ -27,7 +27,7 @@ public class Bola implements BangunRuang {
     }
 
     @Override
-    public void tampil() {
+    public void tampilBangunRuang() {
         System.out.printf("Hasil : V = %.1f%n", hitungVolume());
     }
 }

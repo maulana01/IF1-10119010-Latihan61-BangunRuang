@@ -18,5 +18,5 @@ public interface BangunRuang {
     
     public abstract double hitungVolume();
     
-    public abstract void tampil();
+    public abstract void tampilBangunRuang();
 }
